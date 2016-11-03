@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /node_modules
 /public/storage
 /vendor
@@ -5,3 +6,17 @@
 Homestead.json
 Homestead.yaml
 .env
+=======
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+>>>>>>> d90430f85dbdffed35f6aa269ba1fd20bf9e3d63
